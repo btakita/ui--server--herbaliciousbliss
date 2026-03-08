@@ -20,7 +20,7 @@ import {
 	strong_,
 	ul_
 } from 'relementjs/html'
-import { type request_ctx_T } from 'relysjs/server'
+import { type request_ctx_T } from 'rebuildjs/server'
 import { aries__svg_ } from '../icon/index.js'
 import { layout__doc_html_ } from '../layout/index.js'
 import GWA_business_card_Lyra_Star_webp from '../public/asset/image/lyra/GWA_business_card_Lyra_Star.webp'

@@ -2,7 +2,7 @@ import { container__div_ } from '@btakita/ui--any--herbaliciousbliss/container'
 import { site__social_a1_ } from '@rappstack/domain--server/site'
 import { class_ } from 'ctx-core/html'
 import { a_, br_, div_, footer_, li_, span_, ul_ } from 'relementjs/html'
-import { type request_ctx_T } from 'relysjs/server'
+import { type request_ctx_T } from 'rebuildjs/server'
 export function site__footer_({
 	ctx,
 	class: _class,
