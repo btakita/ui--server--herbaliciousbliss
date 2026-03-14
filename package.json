@@ -49,7 +49,9 @@
 	"dependencies": {
 		"@btakita/domain--server--herbaliciousbliss": "workspace:*",
 		"@btakita/ui--any--herbaliciousbliss": "workspace:*",
-		"@rappstack/domain--server": "workspace:*",
+		"@rappstack/domain--server": "^0.1.0",
+		"@rappstack/ui--any": "^0.1.0",
+		"@rappstack/ui--server": "^0.1.0",
 		"ctx-core": "^7.2.27",
 		"relementjs": "^0.80.26",
 		"rebuildjs": "^0.70.37",
